@@ -1,0 +1,7 @@
+.idea/
+model/
+*png
+build/
+dist/
+*.log
+__pycache__/
